@@ -24,4 +24,5 @@ The goal is to develop and document my Linux skills while preparing for the LPIC
   5. Automated backups with Bash
      ## Author
      Junior Linux System Administrator candidate.
-     Currently studying LPIC-1 and developing practical Linux skills.
+    LPIC-1 Certified.
+Developing practical Linux system administration skills through hands-on project and labs.
